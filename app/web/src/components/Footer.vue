@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        THE SAME TEAM, THE BEST TEAM OF THE WORLD :)
+        THE SAME TEAM THE BEST TEAM OF THE WORLD :)
       </div>
       <div class="col-lg-6">
       </div>
